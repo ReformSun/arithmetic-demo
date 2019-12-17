@@ -1,0 +1,10 @@
+java -classpath E:\Asunjihua\idea\LearnArithmetic\lib\algs4.jar:E:\Asunjihua\idea\LearnArithmetic\target\LearnArithmetic-1.0-SNAPSHOT.jar com.test.stack1_3.TestDijikstra
+
+
+java -cp .\lib\algs4.jar;.\target\classes\ com.test.stack1_3.FixedCapacityStack
+
+
+
+java -Dfile.encoding=UTF-8 -classpath E:\Asunjihua\idea\LearnArithmetic\target\classes;E:\Asunjihua\idea\LearnArithmetic\lib\algs4.jar com.test.stack1_3.TestDijikstra
+
+javap -l -p -c -cp .\lib\algs4.jar;.\target\classes\ com.test.stack1_3.FixedCapacityStack$ReverseArrayItertor
